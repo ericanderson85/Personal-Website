@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	* {
+		@apply m-0;
+		@apply font-raleway;
+		@apply text-black;
+	}
+	html {
+		@apply p-4;
+		@apply h-full;
+		@apply bg-white;
+		@apply scroll-smooth;
+	}
+	body {
+		@apply min-h-full;
+		@apply bg-inherit;
+	}
+}
