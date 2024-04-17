@@ -26,8 +26,9 @@
                     <h2 class="md:text-6xl
                     text-4xl mt-2">About Me</h2>
                     <div class="md:mx-8 md:text-xl
-                    mx-4 text-lg my-2">
-                        <span>Hi, I'm Eric. I am a <Age /> year old freshman studying computer science at the University of Massachusetts Boston. I am originally from Foxborough, Massachusetts, and I graduated from Foxborough High School in June of 2023.</span>
+                    mx-4 text-lg my-2 flex flex-col">
+                        <span class="text-center">Hi, I'm Eric. I am a <Age /> year old freshman studying computer science at the University of Massachusetts Boston. I am originally from Foxborough, Massachusetts, and I graduated from Foxborough High School in June of 2023.</span>
+                        <span class="text-center">View the source code for this website <a class="text-link" href="https://github.com/ericanderson85/Personal-Website" target="_blank">here</a>.</span>
                     </div>
                 </div>
             </div>
