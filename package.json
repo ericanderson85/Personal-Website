@@ -9,7 +9,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
-		"@sveltejs/kit": "^2.0.0",
+		"@sveltejs/kit": "^2.5.6",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"autoprefixer": "^10.4.17",
 		"postcss": "^8.4.35",
@@ -22,6 +22,6 @@
 	"type": "module",
 	"dependencies": {
 		"@neodrag/svelte": "^2.0.3",
-		"@sveltejs/adapter-cloudflare": "^1.0.0-next.45"
+		"@sveltejs/adapter-cloudflare": "^4.4.0"
 	}
 }
