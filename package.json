@@ -23,5 +23,6 @@
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^4.4.0",
 		"wrangler": "^3.28.4"
-	}
+	},
+	"packageManager": "yarn@4.1.1"
 }
