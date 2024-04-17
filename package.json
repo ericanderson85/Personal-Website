@@ -21,6 +21,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@neodrag/svelte": "^2.0.3"
+		"@neodrag/svelte": "^2.0.3",
+		"@sveltejs/adapter-cloudflare": "^1.0.0-next.45"
 	}
 }
