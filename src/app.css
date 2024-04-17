@@ -18,4 +18,33 @@
 		@apply min-h-full;
 		@apply bg-inherit;
 	}
+
+}
+
+.move-top-left {
+	animation: moveToTopLeft 1s ease-in-out;
+}
+
+@keyframes moveToTopLeft {
+	from {
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	to {
+		font-size: 1.125rem;
+		top: 13px;
+		left: 0;
+		transform: translate(0%, 0%);
+	}
+}
+
+.extend-right {
+	animation: extendRight 1s linear;
+}
+
+@keyframes extendRight {
+	to {
+		width: calc(100% - 4rem);
+	}
 }

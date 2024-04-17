@@ -6,7 +6,10 @@ const config = {
 	kit: {
 		adapter: adapter()
 	},
-	preprocess: vitePreprocess()
+	preprocess: vitePreprocess(),
+	files: {
+		routes: 'src/routes'
+	}
 	
 };
 
