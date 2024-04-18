@@ -61,7 +61,7 @@
                             md:border-r-px md:border-black md:border-opacity-20 md:rounded-bl-[15px] md:h-full md:w-auto" alt="graph of player statistics" src="/Plot_example.png">
                             <div class="flex flex-col m-2 justify-between">
                                 <span>Web application for comparing NBA players to find the most statistically similar player.</span>
-                                <a href="https://github.com/ericanderson85/Basketball-Compare" target="_blank" class="text-link">Learn more</a>
+                                <a href="https://www.basketballcompare.xyz/" target="_blank" class="text-link">Learn more</a>
                             </div>
                         </div>
                     </div>
