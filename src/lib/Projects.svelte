@@ -66,6 +66,27 @@
                         </div>
                     </div>
 
+                    <div class="md:h-60
+                    my-4 w-full border-px border-black border-opacity-20 bg-gray rounded-2xl">
+                        <div class="md:h-[25%]
+                        w-full border-black border-b-px border-opacity-20 rounded-t-2xl">
+                            <div class="md:mx-4 md:flex-row md:justify-between
+                            flex flex-col items-center h-full">
+                                <span class="font-medium">Color Palette Extractor</span>
+                                <span class="italic text-lg">April 2024</span>
+                            </div>
+                        </div>
+                        <div class="w-full 
+                        md:w-auto md:flex md:h-[75%]">
+                            <img class="object-cover h-32 w-full
+                            md:border-r-px md:border-black md:border-opacity-20 md:rounded-bl-[15px] md:h-full md:w-auto" alt="extracted color palette" src="/color_palette.png">
+                            <div class="flex flex-col m-2 justify-between">
+                                <span>Get a color palette from the most prominent colors in an image.</span>
+                                <a href="https://ericanderson85.github.io/color-extractor/" target="_blank" class="text-link">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
             {/if}
