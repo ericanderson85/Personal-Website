@@ -21,7 +21,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-cloudflare": "^4.4.0",
+		"@sveltejs/adapter-cloudflare": "^4.7.2",
 		"wrangler": "^3.28.4"
 	}
 }

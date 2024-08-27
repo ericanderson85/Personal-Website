@@ -51,6 +51,27 @@
                         w-full border-black border-b-px border-opacity-20 rounded-t-2xl">
                             <div class="md:mx-4 md:flex-row md:justify-between
                             flex flex-col items-center h-full">
+                                <span class="font-medium">Speed Sudoku</span>
+                                <span class="italic text-lg">June 2024 - August 2024</span>
+                            </div>
+                        </div>
+                        <div class="w-full 
+                        md:w-auto md:flex md:h-[75%]">
+                            <img class="object-cover h-32 w-full
+                            md:border-r-px md:border-black md:border-opacity-20 md:rounded-bl-[15px] md:h-full md:w-auto" alt="sudoku board" src="/sudoku.png">
+                            <div class="flex flex-col m-2 justify-between">
+                                <span>Online Sudoku web application that adjusts to the skill of the user using an Elo rating system.</span>
+                                <a href="https://www.speedsudoku.xyz" class="text-link">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="md:h-60
+                    my-4 w-full border-px border-black border-opacity-20 bg-gray rounded-2xl">
+                        <div class="md:h-[25%]
+                        w-full border-black border-b-px border-opacity-20 rounded-t-2xl">
+                            <div class="md:mx-4 md:flex-row md:justify-between
+                            flex flex-col items-center h-full">
                                 <span class="font-medium">Neural Network Library</span>
                                 <span class="italic text-lg">May 2024 - June 2024</span>
                             </div>
